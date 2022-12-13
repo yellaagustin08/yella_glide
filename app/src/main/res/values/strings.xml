@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Glide_yella</string>
+    <string name="load_ulang"> Load Gambar </string>
+    <string name="textURL">Text URL</string>
+</resources>
